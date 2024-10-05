@@ -2,3 +2,31 @@ halo/halo:2.19
 
 #支持指定架构
 --platform=limux/arm64 xiaoyaliu/alist
+bitnami/nginx:latest
+bitnami/openresty:latest
+# bitnami/trivy:latest
+# vscode
+linuxserver/code-server:latest
+# ubuntu
+ubuntu:latest
+# debian
+debian:latest
+# git
+harness/gitness
+# # drone
+# appleboy/drone-scp:latest
+# appleboy/drone-ssh:latest
+# gitlab
+gitlab/gitlab-ce:latest
+gitlab/gitlab-runner:latest
+# onedev
+1dev/server:latest
+# jpom
+jpomdocker/jpom
+# hyperf
+hyperf/hyperf:7.4-alpine-v3.15-swoole
+hyperf/hyperf:8.1-alpine-v3.19-swoole
+# almalinux
+almalinux:latest
+# rockylinux
+rockylinux:9
