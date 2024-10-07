@@ -1,5 +1,4 @@
 halo/halo:2.19
-
 #支持指定架构
 --platform=limux/arm64 xiaoyaliu/alist
 bitnami/nginx:latest
